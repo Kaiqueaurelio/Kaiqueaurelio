@@ -8,7 +8,7 @@ Olá! Eu sou Kaique Aurélio, estudante de Ciência da Computação na UNIP, apa
 
 Além disso, sou o criador da inteligência artificial Ella Ribeiro e apresento o podcast "Pod ka podcast", onde discuto temas como tecnologia da informação, mundo dos games, filmes e saúde mental.
 
-🎙️ [Pod ka podcast](https://open.spotify.com/show/2BJi3F7w1Kl7eZPf2JwLcG?si=0WN00JUzTKK1cT74sBkqJg)
+🎙️ [Podka podcast](https://open.spotify.com/show/2BJi3F7w1Kl7eZPf2JwLcG?si=0WN00JUzTKK1cT74sBkqJg)
 
 ## Projetos Destacados
 
